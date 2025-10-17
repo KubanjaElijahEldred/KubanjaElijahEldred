@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Kubanja%20Elijah%20Eldred&fontSize=30&fontAlignY=35" />
@@ -11,68 +12,45 @@
 
 ---
 
-## 🏆 **ACHIEVEMENTS & MILESTONES**
+## 🏆 **ACHIEVEMENTS SHOWCASE**
 
 <div align="center">
 
-### 🎯 **UNLOCKED ACHIEVEMENTS**
-<div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 15px; border-radius: 10px; margin: 10px 0;">
-  <table style="width: 100%;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <div style="font-size: 24px;">🦈</div>
-        <strong>Pull Shark</strong><br>
-        <small>x2 Unlocked</small>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="font-size: 24px;">💥</div>
-        <strong>YOLO</strong><br>
-        <small>Achieved</small>
-      </td>
-    </tr>
-  </table>
+### 🎯 **GITHUB ACHIEVEMENTS**
+![Trophy](https://github-profile-trophy.vercel.app/?username=KubanjaElijahEldred&theme=radical&no-frame=true&row=1&column=4&margin-w=5)
+
+### ⭐ **UNLOCKED BADGES**
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 15px 0;">
+  <div style="text-align: center;">
+    <div style="font-size: 40px; background: linear-gradient(45deg, #FFD700, #FFA500); padding: 15px; border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">🦈</div>
+    <strong>Pull Shark</strong><br>
+    <small style="color: #00FF00;">✓ x2 Unlocked</small>
+  </div>
+  <div style="text-align: center;">
+    <div style="font-size: 40px; background: linear-gradient(45deg, #FF6B6B, #FF8E53); padding: 15px; border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">💥</div>
+    <strong>YOLO</strong><br>
+    <small style="color: #00FF00;">✓ Achieved</small>
+  </div>
 </div>
 
-### 🚀 **PROGRESS TRACKER**
-<div style="background: #2D3748; padding: 15px; border-radius: 10px; margin: 10px 0;">
-  <table style="width: 100%;">
-    <tr>
-      <td align="center" style="padding: 8px;">
-        <strong>⭐ Starstruck</strong><br>
-        <progress value="8" max="16" style="width: 80px;"></progress><br>
-        <small>8/16 Stars</small>
-      </td>
-      <td align="center" style="padding: 8px;">
-        <strong>📂 Repositories</strong><br>
-        <progress value="7" max="10" style="width: 80px;"></progress><br>
-        <small>7/10 Repos</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 8px;">
-        <strong>📊 Contributions</strong><br>
-        <progress value="283" max="500" style="width: 80px;"></progress><br>
-        <small>283/500</small>
-      </td>
-      <td align="center" style="padding: 8px;">
-        <strong>👥 Followers</strong><br>
-        <progress value="3" max="10" style="width: 80px;"></progress><br>
-        <small>3/10</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🏅 **NEXT TARGETS**
-<div style="display: inline-block; background: #4A5568; padding: 10px 15px; border-radius: 20px; margin: 5px;">
-  🚀 Quick Draw
-</div>
-<div style="display: inline-block; background: #4A5568; padding: 10px 15px; border-radius: 20px; margin: 5px;">
-  💝 Heart On
-</div>
-<div style="display: inline-block; background: #4A5568; padding: 10px 15px; border-radius: 20px; margin: 5px;">
-  🏆 Galaxy Brain
-</div>
+### 📈 **PROGRESS DASHBOARD**
+<table style="width: 100%; background: #2D3748; border-radius: 10px; padding: 15px;">
+  <tr>
+    <td align="center"><strong>⭐ Stars</strong><br>8/16</td>
+    <td align="center"><strong>📂 Repos</strong><br>7/10</td>
+    <td align="center"><strong>📊 Contributions</strong><br>283/500</td>
+    <td align="center"><strong>👥 Followers</strong><br>3/10</td>
+  </tr>
+  <tr>
+    <td colspan="4" style="padding-top: 10px;">
+      <div style="background: #4A5568; border-radius: 10px; padding: 5px;">
+        <div style="background: linear-gradient(90deg, #7F00FF, #E100FF); border-radius: 8px; padding: 8px; text-align: center; font-weight: bold;">
+          🚀 57% Overall Progress
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
