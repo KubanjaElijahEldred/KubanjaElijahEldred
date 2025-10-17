@@ -1,13 +1,14 @@
 <div align="center">
 
-<!-- Animated Header with Welcome Text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Welcome%20To%20My%20World&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<!-- Profile Picture and Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20World&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
-<!-- Profile Picture and Name -->
-<img src="https://avatars.githubusercontent.com/u/169258319?v=4" alt="Kubanja Elijah Eldred" width="150" height="150" style="border-radius: 50%; border: 4px solid #7F00FF; margin-top: -80px;">
+<!-- Profile Picture -->
+<img src="https://avatars.githubusercontent.com/u/169258319?v=4" alt="Kubanja Elijah Eldred" width="160" height="160" style="border-radius: 50%; border: 4px solid #7F00FF; margin-top: -90px;">
 
-# Kubanja Elijah Eldred
-### 👨‍💻 Passionate Software Engineering Student
+# 👨‍💻 KUBANJA ELIJAH ELDRED
+
+### 🚀 Passionate Software Engineering Student | Future Tech Leader
 
 📍 **Mutungo-Kampala, Uganda** • 🌐 **UTC +03:00**  
 📧 **kubanjaelijah2037@gmail.com** • 📱 **+256 700290157**
@@ -16,162 +17,200 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 **GitHub Analytics & Streaks**
 
 <div align="center">
 
 <!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=KubanjaElijahEldred&theme=radical&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KubanjaElijahEldred&theme=radical&border_radius=10&fire=DD2727&currStreakNum=DD2727&ring=DD2727)](https://git.io/streak-stats)
 
 <!-- Stats Cards -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KubanjaElijahEldred&show_icons=true&theme=radical&border_radius=10" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubanjaElijahEldred&layout=compact&theme=radical&border_radius=10" />
-    </td>
-  </tr>
-</table>
+| 📈 **Activity Stats** | 🗣️ **Top Languages** |
+|:---------------------:|:--------------------:|
+| ![Eldred's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KubanjaElijahEldred&show_icons=true&theme=radical&border_radius=10&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KubanjaElijahEldred&layout=compact&theme=radical&border_radius=10&langs_count=8) |
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KubanjaElijahEldred&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Contribution%20Journey)
 
 </div>
 
 ---
 
-## 🏆 Achievement Showcase
+## 🏆 **Achievements & Trophies**
 
 <div align="center">
 
-### 🎯 **Unlocked Achievements**
+![Achievement Trophy](https://github-profile-trophy.vercel.app/?username=KubanjaElijahEldred&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
 
-<table>
-  <tr>
-    <td align="center">
-      <div style="background: #2D3748; padding: 15px; border-radius: 10px; border: 2px solid #4A5568;">
-        <b>🦈 Pull Shark</b>
-        <br>
-        <sub>x2 Unlocked</sub>
-        <br>
-        <small>✅ Completed</small>
-      </div>
-    </td>
-    <td align="center">
-      <div style="background: #2D3748; padding: 15px; border-radius: 10px; border: 2px solid #4A5568;">
-        <b>💥 YOLO</b>
-        <br>
-        <sub>Quick Actions</sub>
-        <br>
-        <small>✅ Completed</small>
-      </div>
-    </td>
-  </tr>
-</table>
-
-### 🚀 **Upcoming Goals**
-
-<table>
-  <tr>
-    <td align="center">
-      <div style="background: #2D3748; padding: 15px; border-radius: 10px; border: 2px dashed #4A5568;">
-        <b>⭐ Starstruck</b>
-        <br>
-        <sub>Get 16+ stars</sub>
-        <br>
-        <small>🔒 8/16 Stars</small>
-      </div>
-    </td>
-    <td align="center">
-      <div style="background: #2D3748; padding: 15px; border-radius: 10px; border: 2px dashed #4A5568;">
-        <b>🚀 Quick Draw</b>
-        <br>
-        <sub>Merge PR in <30min</sub>
-        <br>
-        <small>🔒 Next Target</small>
-      </div>
-    </td>
-    <td align="center">
-      <div style="background: #2D3748; padding: 15px; border-radius: 10px; border: 2px dashed #4A5568;">
-        <b>🏆 Galaxy Brain</b>
-        <br>
-        <sub>Answer discussions</sub>
-        <br>
-        <small>🔒 Future Goal</small>
-      </div>
-    </td>
-  </tr>
-</table>
+| 🎯 **Badge** | 📛 **Name** | 🏅 **Status** |
+|:------------:|:-----------:|:-------------:|
+| 🦈 | **Pull Shark** | **x2 Unlocked** ⭐ |
+| 💥 | **YOLO** | **Achieved** ✅ |
+| 🔥 | **Quick Draw** | **In Progress** 🚀 |
+| 🎉 | **Starstruck** | **Coming Soon** 🌟 |
 
 ### 📈 **Progress Trackers**
-
-**Repository Goals:**
-- [x] **5+ Public Repos** ✅
-- [ ] **10+ Public Repos** 🔄 (7/10)
+- [x] **200+ Contributions** ✅ (283)
+- [ ] **10+ Repositories** 🔄 (7/10)
 - [ ] **20+ Stars** 🔄 (8/20)
-
-**Contribution Goals:**
-- [x] **100+ Contributions** ✅
-- [x] **200+ Contributions** ✅  
-- [ ] **500+ Contributions** 🔄 (283/500)
+- [ ] **10+ Followers** 🔄 (3/10)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack & Superpowers**
 
 <div align="center">
 
-### **Languages & Tools**
+### 💻 **Programming Languages**
+<br>
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
 
-<img src="https://skillicons.dev/icons?i=js,java,html,css,nodejs,git,github,vscode,mysql,react&theme=dark&perline=10" />
+### 🚀 **Frameworks & Tools**
+<br>
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</div>
+
+### ☁️ **Databases & Cloud**
+<br>
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</div>
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 **Featured Projects Showcase**
 
 <div align="center">
 
-### 🎬 [Movie Library](https://github.com/KubanjaElijahEldred/movies)
-> Movie application with Chrome casting capabilities
-> 
-> ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow)
-> ![Stars](https://img.shields.io/badge/⭐-2-blue)
+### 🎬 **Movie Library App**
+[![Movies Repo](https://github-readme-stats.vercel.app/api/pin/?username=KubanjaElijahEldred&repo=movies&theme=radical&border_radius=10)](https://github.com/KubanjaElijahEldred/movies)
+> *Advanced movie library with Chrome casting capabilities*
 
-### 📸 [Smart Attendance Monitor](https://github.com/KubanjaElijahEldred/smart-attendance-monitor)
-> Facial recognition attendance system (Hackathon Winner)
-> 
-> ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow)
-> ![Stars](https://img.shields.io/badge/⭐-2-blue)
+### 📸 **Smart Attendance Monitor**
+[![Attendance Repo](https://github-readme-stats.vercel.app/api/pin/?username=KubanjaElijahEldred&repo=smart-attendance-monitor&theme=radical&border_radius=10)](https://github.com/KubanjaElijahEldred/smart-attendance-monitor)
+> *Facial recognition system - Hackathon Winner 🏆*
 
-### ☕ [Java Class 2025](https://github.com/KubanjaElijahEldred/Java-class-2025)
-> Java programming coursework and materials
-> 
-> ![Stars](https://img.shields.io/badge/⭐-2-blue)
+### ☕ **Java Learning Journey**
+[![Java Repo](https://github-readme-stats.vercel.app/api/pin/?username=KubanjaElijahEldred&repo=Java-class-2025&theme=radical&border_radius=10)](https://github.com/KubanjaElijahEldred/Java-class-2025)
+> *Comprehensive Java programming coursework*
 
-### 💼 [MY-BIO](https://github.com/KubanjaElijahEldred/MY-BIO)
-> Personal portfolio and bio project
-> 
-> ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow)
+### 💼 **Personal Portfolio**
+[![Bio Repo](https://github-readme-stats.vercel.app/api/pin/?username=KubanjaElijahEldred&repo=MY-BIO&theme=radical&border_radius=10)](https://github.com/KubanjaElijahEldred/MY-BIO)
+> *My personal brand and portfolio website*
 
 </div>
 
 ---
 
-## 📈 Activity & Growth
+## 📈 **Contribution Metrics**
 
 <div align="center">
 
-**Current Stats:**
-- **📊 Contributions:** 283 (Last Year)
-- **👥 Followers:** 3
-- **🔔 Following:** 4
-- **📂 Repositories:** 7+
+| Metric | 📊 Stats |
+|--------|----------|
+| **Total Contributions** | **283** in last year |
+| **Longest Streak** | Building daily 🔥 |
+| **Repository Count** | **7+** active projects |
+| **Community** | **3** followers • **4** following |
 
-**Monthly Goal Progress:**
-```text
-Contributions: ████████████████████ 283/500
-Repositories:  ████████████∙∙∙∙∙∙∙∙ 7/10
-Stars:        ████∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ 8/20
+<!-- Contribution Snake -->
+![Contribution Snake](https://raw.githubusercontent.com/KubanjaElijahEldred/KubanjaElijahEldred/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🌍 **Connect With Me**
+
+<div align="center">
+
+### 📍 **Location & Time**
+**Mutungo-Kampala, Uganda** • **🌅 UTC +03:00**
+
+### 📬 **Contact Channels**
+<br>
+<div>
+  <a href="mailto:kubanjaelijah2037@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/256700290157">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://github.com/KubanjaElijahEldred">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/KubanjaElijahEldred/MY-BIO">
+    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+<br>
+
+**📞 Direct: +256 700290157** • **💼 Let's connect professionally!**
+
+</div>
+
+---
+
+## 🎯 **Current Focus & Goals**
+
+<div align="center">
+
+| 🚀 **Short-term Goals** | 🌟 **Long-term Vision** |
+|:-----------------------|:-----------------------|
+| ✅ Master Advanced JavaScript | 🎯 Become Full-Stack Expert |
+| ✅ Build 5+ Real Projects | 🏆 Contribute to Open Source |
+| ✅ Learn React Framework | 💼 Land Software Engineering Role |
+| ✅ Improve Algorithm Skills | 🌍 Impact African Tech Ecosystem |
+
+<br>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ **Fun Facts About Me**
+
+- 🎮 **Gamer at heart** - Love strategy and puzzle games
+- 🎵 **Music lover** - Code with beats in the background
+- 🌱 **Always learning** - Currently exploring AI/ML
+- ☕ **Coffee enthusiast** - Fueled by caffeine and code
+- 🌍 **Tech for Africa** - Passionate about local tech solutions
+
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=KubanjaElijahEldred&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/KubanjaElijahEldred?style=for-the-badge&color=green&label=FOLLOWERS)
+![Repositories](https://img.shields.io/badge/Repositories-7+-orange?style=for-the-badge)
+
+<br>
+
+### **Thanks for visiting! Let's build something amazing together!** 🌟
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true)
+
+</div>
