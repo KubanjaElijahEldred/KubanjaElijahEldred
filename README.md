@@ -9,10 +9,6 @@
 ![GitHub Repos](https://img.shields.io/badge/Public%20Repos-{{REPO_COUNT}}-informational?style=flat-square&logo=github)
 ![Total Commits](https://badges.pufler.dev/commits/monthly/KubanjaElijahEldred?style=flat-square&color=brightgreen)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KubanjaElijahEldred&theme=radical&border_radius=8)](https://git.io/streak-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=KubanjaElijahEldred&show_icons=true&theme=radical&border_radius=8&count_private=true&hide_title=true)](https://github.com/KubanjaElijahEldred)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KubanjaElijahEldred&layout=compact&theme=radical&border_radius=8)](https://github.com/KubanjaElijahEldred)
-
 ---
 
 # 👋 Hi, I'm Kubanja Elijah Eldred
@@ -69,15 +65,6 @@
 - 🤝 Contributing to **open-source**
 - 🌍 Using **Git** & **GitHub** for collaboration and version control
 - 💡 Exploring **AI and automation**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KubanjaElijahEldred&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KubanjaElijahEldred&theme=tokyonight" />
-</p>
 
 ---
 
