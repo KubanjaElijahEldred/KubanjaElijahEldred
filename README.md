@@ -4,6 +4,11 @@
 # 👨‍💻 Software Engineering Student  
 **Kampala, Uganda** • **+256 700290157** • **+256 788577092**
 
+![Profile Views](https://komarev.com/ghpvc/?username=KubanjaElijahEldred&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/KubanjaElijahEldred?label=Followers&style=flat-square&color=success)
+![GitHub Repos](https://img.shields.io/badge/Public%20Repos-{{REPO_COUNT}}-informational?style=flat-square&logo=github)
+![Total Commits](https://badges.pufler.dev/commits/monthly/KubanjaElijahEldred?style=flat-square&color=brightgreen)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=KubanjaElijahEldred&theme=radical&border_radius=8)](https://git.io/streak-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=KubanjaElijahEldred&show_icons=true&theme=radical&border_radius=8&count_private=true&hide_title=true)](https://github.com/KubanjaElijahEldred)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KubanjaElijahEldred&layout=compact&theme=radical&border_radius=8)](https://github.com/KubanjaElijahEldred)
@@ -44,7 +49,7 @@
 
 | Project | Description | Language |
 |----------|--------------|-----------|
-| [**🎬 Movie-App**](https://github.com/KubanjaElijahEldred/Movie-App) | Flutter-based movie app to browse, watch trailers, and manage movie data. | <img src="https://skillicons.dev/icons?i=flutter,dart,js" height="20"/> |
+| [**🎬 Movie-App**](https://github.com/KubanjaElijahEldred/Movie-App) | A Flutter-based movie app to browse, watch trailers, and manage movie data. | <img src="https://skillicons.dev/icons?i=flutter,dart,js" height="20"/> |
 | [**AI-Student-Companion**](https://github.com/KubanjaElijahEldred/AI-Student-Companion) | An AI chatbot for students using Java + React + Node.js. | <img src="https://skillicons.dev/icons?i=html,java,nodejs,react" height="20"/> |
 | [**student-management-system**](https://github.com/KubanjaElijahEldred/student-management-system) | System for registration, exam passes, and report generation. | <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb" height="20"/> |
 | [**farmer-management-system**](https://github.com/KubanjaElijahEldred/farmer-management-system) | Registers farmers and tracks crops. | <img src="https://skillicons.dev/icons?i=typescript,nodejs,express" height="20"/> |
