@@ -15,6 +15,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KubanjaElijahEldred&show_icons=true&theme=radical&border_radius=8&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=KubanjaElijahEldred&theme=radical&border_radius=8" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubanjaElijahEldred&layout=compact&theme=radical&border_radius=8" />
+</p>
+
+---
+
 ## 🌟 Featured Projects & Languages Used
 
 | Project | Description | Languages / Frameworks |
