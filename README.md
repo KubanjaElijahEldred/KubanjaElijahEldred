@@ -34,13 +34,21 @@
 
 ---
 
-## 📈 Skills Graph
+## 📈 Code Review & Contributions
 
 <p align="center">
-  <img src="https://i.ibb.co/XYZ/skills-graph.png" alt="Skills Graph" width="500"/>
+  <img src="https://i.ibb.co/XYZ/skills-graph.png" alt="Code Review Statistics" width="500"/>
 </p>
 
-*X-axis: Frontend → Backend, Y-axis: Beginner → Advanced*
+**Code Review Distribution:**
+- **75%** - Major contributions & feature development
+- **10%** - Bug fixes & improvements  
+- **15%** - Documentation & reviews
+
+**Commit Activity:**
+- Regular pull request contributions
+- Active in code reviews and collaboration
+- Consistent project maintenance
 
 ---
 
