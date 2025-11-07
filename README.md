@@ -26,24 +26,30 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubanjaElijahEldred&layout=compact&theme=radical&border_radius=8" />
 </p>
 
+### 🚀 Most Used Languages & Frameworks (Based on Projects)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,dart,html,css,react,nodejs,express,flutter,mongodb" height="40" />
+</p>
+
 ---
 
 ## 🌟 Featured Projects & Languages Used
 
 | Project | Description | Languages / Frameworks |
 |----------|-------------|----------------------|
-| [**🎬 Movie-App**](https://github.com/KubanjaElijahEldred/Movie-App) | Flutter-based movie app to browse, watch trailers, and manage movies. | Flutter, Dart, JS |
-| [**AI-Student-Companion**](https://github.com/KubanjaElijahEldred/AI-Student-Companion) | AI chatbot for students. | Java, React, Node.js, HTML |
-| [**student-management-system**](https://github.com/KubanjaElijahEldred/student-management-system) | Registration, exam passes, and report generation. | JS, Node.js, Express, MongoDB |
-| [**farmer-management-system**](https://github.com/KubanjaElijahEldred/farmer-management-system) | Registers farmers and tracks crops. | TypeScript, Node.js, Express |
-| [**farmer-and-tasks-management-system**](https://github.com/KubanjaElijahEldred/farmer-and-tasks-management-system) | Task tracker and farm operation monitor. | JS, Node.js, Express |
-| [**hospital-management-system**](https://github.com/KubanjaElijahEldred/hospital-management-system) | Hospital operations & patient records. | React, Node.js, MongoDB |
-| [**Restaurant-management-system**](https://github.com/KubanjaElijahEldred/Restaurant-management-system) | Inventory & order management. | JS, HTML, CSS |
-| [**betting-app**](https://github.com/KubanjaElijahEldred/betting-app) | Betting data management web app. | React, JS, Node.js |
-| [**Data-Structures-and-Algorithms**](https://github.com/KubanjaElijahEldred/Data-Structures-and-algorithms-linear-and-non-linear-vectors-and-skip-lists-) | Linear & non-linear data structure implementations. | Java, Python |
-| [**Smart Attendance**](https://github.com/KubanjaElijahEldred/smart-attendance) | AI-based attendance recognition system. | Python, Java |
-| [**Java Coursework**](https://github.com/KubanjaElijahEldred/Java-class-2025) | OOP & Data Structures in Java. | Java |
-| [**My Portfolio**](https://github.com/KubanjaElijahEldred/MY-BIO) | Personal developer portfolio website. | HTML, CSS, JS |
+| [**🎬 Movie-App**](https://github.com/KubanjaElijahEldred/Movie-App) | Flutter-based movie app to browse, watch trailers, and manage movies. | <img src="https://skillicons.dev/icons?i=flutter,dart,js" height="20"/> |
+| [**AI-Student-Companion**](https://github.com/KubanjaElijahEldred/AI-Student-Companion) | AI chatbot for students. | <img src="https://skillicons.dev/icons?i=html,java,nodejs,react" height="20"/> |
+| [**student-management-system**](https://github.com/KubanjaElijahEldred/student-management-system) | Registration, exam passes, and report generation. | <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb" height="20"/> |
+| [**farmer-management-system**](https://github.com/KubanjaElijahEldred/farmer-management-system) | Registers farmers and tracks crops. | <img src="https://skillicons.dev/icons?i=typescript,nodejs,express" height="20"/> |
+| [**farmer-and-tasks-management-system**](https://github.com/KubanjaElijahEldred/farmer-and-tasks-management-system) | Task tracker and farm operation monitor. | <img src="https://skillicons.dev/icons?i=js,nodejs,express" height="20"/> |
+| [**hospital-management-system**](https://github.com/KubanjaElijahEldred/hospital-management-system) | Hospital operations & patient records. | <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" height="20"/> |
+| [**Restaurant-management-system**](https://github.com/KubanjaElijahEldred/Restaurant-management-system) | Inventory & order management. | <img src="https://skillicons.dev/icons?i=js,html,css" height="20"/> |
+| [**betting-app**](https://github.com/KubanjaElijahEldred/betting-app) | Betting data management web app. | <img src="https://skillicons.dev/icons?i=react,js,nodejs" height="20"/> |
+| [**Data-Structures-and-Algorithms**](https://github.com/KubanjaElijahEldred/Data-Structures-and-algorithms-linear-and-non-linear-vectors-and-skip-lists-) | Linear & non-linear data structure implementations. | <img src="https://skillicons.dev/icons?i=java,python" height="20"/> |
+| [**Smart Attendance**](https://github.com/KubanjaElijahEldred/smart-attendance) | AI-based attendance recognition system. | <img src="https://skillicons.dev/icons?i=python,java" height="20"/> |
+| [**Java Coursework**](https://github.com/KubanjaElijahEldred/Java-class-2025) | OOP & Data Structures in Java. | <img src="https://skillicons.dev/icons?i=java" height="20"/> |
+| [**My Portfolio**](https://github.com/KubanjaElijahEldred/MY-BIO) | Personal developer portfolio website. | <img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
 
 ---
 
