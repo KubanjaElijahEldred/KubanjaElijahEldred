@@ -26,11 +26,21 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubanjaElijahEldred&layout=compact&theme=radical&border_radius=8" />
 </p>
 
-### 🚀 Most Used Languages & Frameworks (Based on Projects)
+### 🚀 Most Used Languages & Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,python,dart,html,css,react,nodejs,express,flutter,mongodb" height="40" />
 </p>
+
+---
+
+## 📈 Skills Graph
+
+<p align="center">
+  <img src="https://i.ibb.co/XYZ/skills-graph.png" alt="Skills Graph" width="500"/>
+</p>
+
+*X-axis: Frontend → Backend, Y-axis: Beginner → Advanced*
 
 ---
 
@@ -54,18 +64,18 @@
 ---
 
 ### 🧩 What I Love
-- 🛠 Building full-stack systems with **React**, **Node.js**, **Java**, and **Flutter**
-- 🤝 Contributing to **open-source**
-- 🌍 Using **Git** & **GitHub** for collaboration and version control
-- 💡 Exploring **AI and automation**
+- 🛠 Building full-stack systems with **React**, **Node.js**, **Java**, and **Flutter**  
+- 🤝 Contributing to **open-source**  
+- 🌍 Using **Git** & **GitHub** for collaboration and version control  
+- 💡 Exploring **AI and automation**  
 
 ---
 
 ## 📞 Contact
 
-[![Email](https://img.shields.io/badge/Email-kubanjaelijah2037@gmail.com-D14836?logo=gmail)](mailto:kubanjaelijah2037@gmail.com)
-[![WhatsApp 1](https://img.shields.io/badge/WhatsApp-+256700290157-25D366?logo=whatsapp)](https://wa.me/256700290157)
-[![WhatsApp 2](https://img.shields.io/badge/WhatsApp-+256788577092-25D366?logo=whatsapp)](https://wa.me/256788577092)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-kubanjaelijah2037@gmail.com-D14836?logo=gmail)](mailto:kubanjaelijah2037@gmail.com)  
+[![WhatsApp 1](https://img.shields.io/badge/WhatsApp-+256700290157-25D366?logo=whatsapp)](https://wa.me/256700290157)  
+[![WhatsApp 2](https://img.shields.io/badge/WhatsApp-+256788577092-25D366?logo=whatsapp)](https://wa.me/256788577092)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/your-profile)  
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true)
