@@ -44,6 +44,7 @@
 
 | Project | Description | Language |
 |----------|--------------|-----------|
+| [**🎬 Movie-App**](https://github.com/KubanjaElijahEldred/Movie-App) | Flutter-based movie app to browse, watch trailers, and manage movie data. | <img src="https://skillicons.dev/icons?i=flutter,dart,js" height="20"/> |
 | [**AI-Student-Companion**](https://github.com/KubanjaElijahEldred/AI-Student-Companion) | An AI chatbot for students using Java + React + Node.js. | <img src="https://skillicons.dev/icons?i=html,java,nodejs,react" height="20"/> |
 | [**student-management-system**](https://github.com/KubanjaElijahEldred/student-management-system) | System for registration, exam passes, and report generation. | <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb" height="20"/> |
 | [**farmer-management-system**](https://github.com/KubanjaElijahEldred/farmer-management-system) | Registers farmers and tracks crops. | <img src="https://skillicons.dev/icons?i=typescript,nodejs,express" height="20"/> |
@@ -52,7 +53,6 @@
 | [**Restaurant-management-system**](https://github.com/KubanjaElijahEldred/Restaurant-management-system) | Manages restaurant operations with inventory and orders. | <img src="https://skillicons.dev/icons?i=js,html,css" height="20"/> |
 | [**betting-app**](https://github.com/KubanjaElijahEldred/betting-app) | A web app for managing betting data. | <img src="https://skillicons.dev/icons?i=react,js,nodejs" height="20"/> |
 | [**Data-Structures-and-Algorithms**](https://github.com/KubanjaElijahEldred/Data-Structures-and-algorithms-linear-and-non-linear-vectors-and-skip-lists-) | Implementations of linear and non-linear data structures. | <img src="https://skillicons.dev/icons?i=java,python" height="20"/> |
-| [**Movie Library**](https://github.com/KubanjaElijahEldred/movies) | Flutter & JavaScript Movie App with modern UI. | <img src="https://skillicons.dev/icons?i=flutter,dart,js" height="20"/> |
 | [**Smart Attendance**](https://github.com/KubanjaElijahEldred/smart-attendance) | AI-based attendance recognition system. | <img src="https://skillicons.dev/icons?i=python,java" height="20"/> |
 | [**Java Coursework**](https://github.com/KubanjaElijahEldred/Java-class-2025) | Object-Oriented Programming & Data Structures in Java. | <img src="https://skillicons.dev/icons?i=java" height="20"/> |
 | [**My Portfolio**](https://github.com/KubanjaElijahEldred/MY-BIO) | My personal developer portfolio website. | <img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
@@ -63,7 +63,7 @@
 - 🛠 Building full-stack systems with **React**, **Node.js**, **Java**, and **Flutter**
 - 🤝 Contributing to **open-source**
 - 🌍 Using **Git** & **GitHub** for collaboration and version control
-- 💡 Exploring AI and automation
+- 💡 Exploring **AI and automation**
 
 ---
 
