@@ -10,39 +10,33 @@
 
 ---
 
-## 💻 **Tech Stack & Frameworks**
+## 💻 **Languages I Use**
 
-### 🧠 **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,dart,html,css,c,cpp,php" height="48" alt="languages" />
+</p>
 
-### ⚙️ **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss)
+---
+
+## ⚙️ **Frameworks, Tools & Databases**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,mongodb,firebase,mysql,bootstrap,tailwind,git,github,vscode,androidstudio" height="48" alt="frameworks and tools" />
+</p>
 
 ---
 
 ## 🌍 **Open Source & Collaboration**
-💡 I’m passionate about **open-source development**, contributing to community projects, and building tools that help others learn.  
-🧩 I use **Git** and **GitHub** daily for collaboration, version control, and sharing my projects with the world.  
+💡 Passionate about **open-source development**, contributing to innovative projects, and helping others grow through code.  
+🧠 Advocate for **Git** best practices, **clean code**, and community learning.  
+🤝 Always open to collaborating on creative and impactful ideas.  
 
 ---
 
 ## 🌟 Featured Projects
 • **[Movie Library](https://github.com/KubanjaElijahEldred/movies)** – Flutter & JS Movie App  
-• **[Smart Attendance](https://github.com/KubanjaElijahEldred/smart-attendance)** – AI System for Recognition  
-• **[Java Coursework](https://github.com/KubanjaElijahEldred/Java-class-2025)** – Object-Oriented Java Projects  
+• **[Smart Attendance](https://github.com/KubanjaElijahEldred/smart-attendance)** – AI-based Recognition System  
+• **[Java Coursework](https://github.com/KubanjaElijahEldred/Java-class-2025)** – OOP & Data Structures in Java  
 • **[My Portfolio](https://github.com/KubanjaElijahEldred/MY-BIO)** – Personal Developer Site  
 
 ---
