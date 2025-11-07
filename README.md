@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Kubanja Elijah Eldred
 
-🎓 Software Engineering Student @ Bugema University  
+🎓 Software Engineering Student  
 💻 Passionate about **open source**, **Git**, and building scalable apps using modern technologies.  
 
 **Kampala, Uganda** • **+256 700290157** • **+256 788577092**
