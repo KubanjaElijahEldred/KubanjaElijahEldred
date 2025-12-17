@@ -67,7 +67,7 @@
 | [**Data-Structures-and-Algorithms**](https://github.com/KubanjaElijahEldred/Data-Structures-and-algorithms-linear-and-non-linear-vectors-and-skip-lists-) | Linear & non-linear data structure implementations. | <img src="https://skillicons.dev/icons?i=java,python" height="20"/> |
 | [**Smart Attendance**](https://github.com/KubanjaElijahEldred/smart-attendance) | AI-based attendance recognition system. | <img src="https://skillicons.dev/icons?i=python,java" height="20"/> |
 | [**Java Coursework**](https://github.com/KubanjaElijahEldred/Java-class-2025) | OOP & Data Structures in Java. | <img src="https://skillicons.dev/icons?i=java" height="20"/> |
-| [**My Portfolio**](https://github.com/KubanjaElijahEldred/MY-BIO) | Personal developer portfolio website. | <img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
+
 
 ---
 
