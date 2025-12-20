@@ -83,7 +83,6 @@
 
 [![Email](https://img.shields.io/badge/Email-kubanjaelijah2037@gmail.com-D14836?logo=gmail)](mailto:kubanjaelijah2037@gmail.com)  
 [![WhatsApp 1](https://img.shields.io/badge/WhatsApp-+256700290157-25D366?logo=whatsapp)](https://wa.me/256700290157)  
-[![WhatsApp 2](https://img.shields.io/badge/WhatsApp-+256788577092-25D366?logo=whatsapp)](https://wa.me/256788577092)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/your-profile)  
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true)
