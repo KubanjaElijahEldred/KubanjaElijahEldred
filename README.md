@@ -34,11 +34,6 @@
 
 ---
 
-## 📈 Code Review & Contributions
-
-<p align="center">
-  <img src="https://i.ibb.co/XYZ/skills-graph.png" alt="Code Review Statistics" width="500"/>
-</p>
 
 **Code Review Distribution:**
 - **75%** - Major contributions & feature development
