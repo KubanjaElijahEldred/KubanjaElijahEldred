@@ -66,7 +66,7 @@
 
 ---
 
-### 🧩 What I Love
+### 🧩 What I Love most
 - 🛠 Building full-stack systems with **React**, **Node.js**, **Java**, and **Flutter**  
 - 🤝 Contributing to **open-source**  
 - 🌍 Using **Git** & **GitHub** for collaboration and version control  
