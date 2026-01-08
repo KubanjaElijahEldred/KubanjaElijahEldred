@@ -6,7 +6,7 @@
 🎓 Software Engineering Student  
 💻 Passionate about **open source**, **Git**, and building scalable apps,systems using modern technologies.  
 
-**Kampala,Uganda** • **+256 700290157** • **+256 788577092**
+**Kampala, Uganda** • **+256 700290157** • **+256 788577092**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KubanjaElijahEldred&color=blueviolet&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/KubanjaElijahEldred?label=Followers&style=flat-square&color=success)
