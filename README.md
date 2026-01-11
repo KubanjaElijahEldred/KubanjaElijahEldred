@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Kubanja%20Elijah%20Eldred&fontSize=30&fontAlignY=35" />
 <img src="https://avatars.githubusercontent.com/u/169258319?v=4" width="100" height="100" style="border-radius: 50%; border: 3px solid #7F00FF; margin-top: -60px;">
 
-# 👋 Hi, I'm Kubanja Elijah Eldred.
+# 👋 Hi, I'm Kubanja Elijah Eldred
 
 🎓 Software Engineering Student  
 💻 Passionate about **open source**, **Git**, and building scalable apps,systems using modern technologies.  
